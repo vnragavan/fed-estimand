@@ -1,0 +1,386 @@
+[
+  {
+    "epsilon": 1.0,
+    "epsilon_label": "1.0",
+    "seed": 0,
+    "pooled_auc": 0.5451498789797058,
+    "pooled_calib_intercept": 0.020596414587516796,
+    "pooled_calib_slope": 0.011145956707546924,
+    "worst_site_auc": 0.23333333333333334,
+    "worst_site_abs_intercept": 4.51684892390543,
+    "worst_site_slope_dev": 1.185543345364862,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 2,
+    "per_site_aucs": [
+      0.6184895833333334,
+      0.5771103896103896,
+      0.23333333333333334,
+      0.4742857142857143
+    ],
+    "per_site_calib_intercepts": [
+      -0.3219781531691569,
+      -0.6848365400626693,
+      4.51684892390543,
+      1.272657009853065
+    ],
+    "per_site_calib_slopes": [
+      0.03610645474642944,
+      0.025999286149066447,
+      -0.1855433453648621,
+      -0.01185565672721373
+    ],
+    "elapsed_sec": 11.066425416007405
+  },
+  {
+    "epsilon": 1.0,
+    "epsilon_label": "1.0",
+    "seed": 1,
+    "pooled_auc": 0.46484205300068265,
+    "pooled_calib_intercept": 0.324384307149671,
+    "pooled_calib_slope": -0.024594936710611626,
+    "worst_site_auc": 0.4,
+    "worst_site_abs_intercept": 4.431382714589241,
+    "worst_site_slope_dev": 1.1404963045121324,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 2,
+    "per_site_aucs": [
+      0.4562872023809524,
+      0.45779220779220775,
+      0.4,
+      0.5485714285714285
+    ],
+    "per_site_calib_intercepts": [
+      0.0643498777510729,
+      0.035254069600807646,
+      4.431382714589241,
+      0.9870009004059217
+    ],
+    "per_site_calib_slopes": [
+      -0.022581013996951962,
+      -0.04754353600756022,
+      -0.14049630451213235,
+      0.02745620988505233
+    ],
+    "elapsed_sec": 11.826292499987176
+  },
+  {
+    "epsilon": 1.0,
+    "epsilon_label": "1.0",
+    "seed": 2,
+    "pooled_auc": 0.5530317135232421,
+    "pooled_calib_intercept": 0.34816836636369636,
+    "pooled_calib_slope": 0.026826024885782198,
+    "worst_site_auc": 0.5333333333333333,
+    "worst_site_abs_intercept": 2.7092097702899984,
+    "worst_site_slope_dev": 0.9999115331180447,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 2,
+    "per_site_aucs": [
+      0.5386904761904762,
+      0.5960497835497836,
+      0.5333333333333333,
+      0.5614285714285715
+    ],
+    "per_site_calib_intercepts": [
+      0.09579567101587609,
+      -0.11968523425032607,
+      2.7092097702899984,
+      1.5252928250805922
+    ],
+    "per_site_calib_slopes": [
+      0.022390432704087717,
+      0.04283506973822805,
+      8.846688195533899e-05,
+      0.02735794354160986
+    ],
+    "elapsed_sec": 11.713043416006258
+  },
+  {
+    "epsilon": 3.0,
+    "epsilon_label": "3.0",
+    "seed": 0,
+    "pooled_auc": 0.6564264879290014,
+    "pooled_calib_intercept": 0.02329830407536336,
+    "pooled_calib_slope": 0.04667196829039789,
+    "worst_site_auc": 0.6585714285714286,
+    "worst_site_abs_intercept": 5.196396160873449,
+    "worst_site_slope_dev": 0.964769373377296,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 3,
+    "per_site_aucs": [
+      0.7412574404761905,
+      0.6837121212121212,
+      0.8333333333333333,
+      0.6585714285714286
+    ],
+    "per_site_calib_intercepts": [
+      -0.17717824247388453,
+      -0.8326734857049377,
+      5.196396160873449,
+      1.3195674727879037
+    ],
+    "per_site_calib_slopes": [
+      0.06850686188919637,
+      0.06345193522215317,
+      0.24487508214248646,
+      0.035230626622703994
+    ],
+    "elapsed_sec": 12.203775958972983
+  },
+  {
+    "epsilon": 3.0,
+    "epsilon_label": "3.0",
+    "seed": 1,
+    "pooled_auc": 0.5155464531744555,
+    "pooled_calib_intercept": -0.05034172651500854,
+    "pooled_calib_slope": 0.011183243201724851,
+    "worst_site_auc": 0.4,
+    "worst_site_abs_intercept": 4.431382714589241,
+    "worst_site_slope_dev": 1.1404963045121324,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 2,
+    "per_site_aucs": [
+      0.5366443452380951,
+      0.49999999999999994,
+      0.4,
+      0.5785714285714285
+    ],
+    "per_site_calib_intercepts": [
+      -0.3394003585586882,
+      -0.5615779096522491,
+      4.431382714589241,
+      0.8663364342242288
+    ],
+    "per_site_calib_slopes": [
+      0.0203238265523182,
+      0.0028101685985546837,
+      -0.14049630451213235,
+      0.0401993853901135
+    ],
+    "elapsed_sec": 12.026236375008011
+  },
+  {
+    "epsilon": 3.0,
+    "epsilon_label": "3.0",
+    "seed": 2,
+    "pooled_auc": 0.7478123254514988,
+    "pooled_calib_intercept": 0.28499149822431674,
+    "pooled_calib_slope": 0.06456989700873952,
+    "worst_site_auc": 0.6471428571428572,
+    "worst_site_abs_intercept": 4.969428645810596,
+    "worst_site_slope_dev": 0.9690498585710469,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 3,
+    "per_site_aucs": [
+      0.7494419642857142,
+      0.7778679653679653,
+      0.9,
+      0.6471428571428572
+    ],
+    "per_site_calib_intercepts": [
+      0.24320744312740006,
+      -0.4427187536566358,
+      4.969428645810596,
+      1.2872045819372904
+    ],
+    "per_site_calib_slopes": [
+      0.0820012583130418,
+      0.07093815116715621,
+      0.20804922135456633,
+      0.030950141428953158
+    ],
+    "elapsed_sec": 11.858032791002188
+  },
+  {
+    "epsilon": 10.0,
+    "epsilon_label": "10.0",
+    "seed": 0,
+    "pooled_auc": 0.7332278284614907,
+    "pooled_calib_intercept": 0.10989994179404486,
+    "pooled_calib_slope": 0.09100995255318266,
+    "worst_site_auc": 0.6666666666666666,
+    "worst_site_abs_intercept": 3.616766937219265,
+    "worst_site_slope_dev": 0.9170217695836068,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 2,
+    "per_site_aucs": [
+      0.7965029761904762,
+      0.837391774891775,
+      0.6666666666666666,
+      0.71
+    ],
+    "per_site_calib_intercepts": [
+      -0.018348110527666227,
+      -1.1009348599814213,
+      3.616766937219265,
+      1.5550395102468535
+    ],
+    "per_site_calib_slopes": [
+      0.12985397387791978,
+      0.15554255390307703,
+      0.13397348901686493,
+      0.08297823041639323
+    ],
+    "elapsed_sec": 12.59441954200156
+  },
+  {
+    "epsilon": 10.0,
+    "epsilon_label": "10.0",
+    "seed": 1,
+    "pooled_auc": 0.6490721777446783,
+    "pooled_calib_intercept": -0.029733908412925853,
+    "pooled_calib_slope": 0.043899468361906134,
+    "worst_site_auc": 0.6228571428571429,
+    "worst_site_abs_intercept": 2.9259054685141725,
+    "worst_site_slope_dev": 0.9639647369256082,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 3,
+    "per_site_aucs": [
+      0.6928943452380952,
+      0.7510822510822511,
+      0.8,
+      0.6228571428571429
+    ],
+    "per_site_calib_intercepts": [
+      -0.2175223178847741,
+      -1.1101728051291417,
+      2.9259054685141725,
+      1.2946029617506887
+    ],
+    "per_site_calib_slopes": [
+      0.05337239744280985,
+      0.09553675160596338,
+      0.10935752083399063,
+      0.036035263074391796
+    ],
+    "elapsed_sec": 12.342866374994628
+  },
+  {
+    "epsilon": 10.0,
+    "epsilon_label": "10.0",
+    "seed": 2,
+    "pooled_auc": 0.6868987773847205,
+    "pooled_calib_intercept": -0.2552222512027071,
+    "pooled_calib_slope": 0.08066616087469439,
+    "worst_site_auc": 0.5457142857142857,
+    "worst_site_abs_intercept": 3.20328768101561,
+    "worst_site_slope_dev": 0.9601821884622206,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 3,
+    "per_site_aucs": [
+      0.6752232142857143,
+      0.7462121212121213,
+      0.9333333333333333,
+      0.5457142857142857
+    ],
+    "per_site_calib_intercepts": [
+      -0.4275484637404411,
+      -0.9729310640609485,
+      3.20328768101561,
+      1.0384281665546575
+    ],
+    "per_site_calib_slopes": [
+      0.07514245551237898,
+      0.09887840498042168,
+      0.431511787556131,
+      0.0398178115377794
+    ],
+    "elapsed_sec": 12.690236833004747
+  },
+  {
+    "epsilon": null,
+    "epsilon_label": "noDP",
+    "seed": 0,
+    "pooled_auc": 0.8082914416930429,
+    "pooled_calib_intercept": 0.25952464932626323,
+    "pooled_calib_slope": 0.7657167424739232,
+    "worst_site_auc": 0.7342857142857143,
+    "worst_site_abs_intercept": 3.3923754547312592,
+    "worst_site_slope_dev": 0.4509863423419598,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 3,
+    "per_site_aucs": [
+      0.8519345238095237,
+      0.8690476190476192,
+      0.9333333333333333,
+      0.7342857142857143
+    ],
+    "per_site_calib_intercepts": [
+      0.031088491046179424,
+      -0.6732910145209962,
+      3.3923754547312592,
+      1.6655171117567695
+    ],
+    "per_site_calib_slopes": [
+      0.8875983622557854,
+      0.9414907706668662,
+      0.8456307658736847,
+      0.5490136576580402
+    ],
+    "elapsed_sec": 11.491226124984678
+  },
+  {
+    "epsilon": null,
+    "epsilon_label": "noDP",
+    "seed": 1,
+    "pooled_auc": 0.8064295910134672,
+    "pooled_calib_intercept": 0.21110467405821132,
+    "pooled_calib_slope": 0.7752280090726187,
+    "worst_site_auc": 0.7142857142857143,
+    "worst_site_abs_intercept": 3.2526431927232036,
+    "worst_site_slope_dev": 0.5407373136561843,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 3,
+    "per_site_aucs": [
+      0.8508184523809524,
+      0.8750000000000001,
+      0.9333333333333333,
+      0.7142857142857143
+    ],
+    "per_site_calib_intercepts": [
+      0.00445806133445001,
+      -0.7787749413730559,
+      3.2526431927232036,
+      1.5384113794571146
+    ],
+    "per_site_calib_slopes": [
+      0.9121768780939716,
+      0.9948892664243497,
+      0.8458700790442008,
+      0.45926268634381573
+    ],
+    "elapsed_sec": 11.538357292010915
+  },
+  {
+    "epsilon": null,
+    "epsilon_label": "noDP",
+    "seed": 2,
+    "pooled_auc": 0.8112704027803637,
+    "pooled_calib_intercept": 0.27239288567358794,
+    "pooled_calib_slope": 0.8133894052258257,
+    "worst_site_auc": 0.7457142857142857,
+    "worst_site_abs_intercept": 3.3928765471689446,
+    "worst_site_slope_dev": 0.47026425803542926,
+    "worst_site_id_intercept": 2,
+    "worst_site_id_auc": 3,
+    "per_site_aucs": [
+      0.8627232142857143,
+      0.8750000000000001,
+      0.9333333333333333,
+      0.7457142857142857
+    ],
+    "per_site_calib_intercepts": [
+      0.06546661617814875,
+      -0.7042117118465989,
+      3.3928765471689446,
+      1.6612427566856396
+    ],
+    "per_site_calib_slopes": [
+      1.0264261859722348,
+      1.0409419485784368,
+      0.7628794287899432,
+      0.5297357419645707
+    ],
+    "elapsed_sec": 11.768024209013674
+  }
+]

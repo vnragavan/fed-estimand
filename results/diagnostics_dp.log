@@ -1,0 +1,9 @@
+[exp5_eps1.0_seed0] target_eps=1.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=9.4531 clip_norm=1.0000
+[exp5_eps1.0_seed1] target_eps=1.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=9.4531 clip_norm=1.0000
+[exp5_eps1.0_seed2] target_eps=1.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=9.4531 clip_norm=1.0000
+[exp5_eps3.0_seed0] target_eps=3.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=3.6230 clip_norm=1.0000
+[exp5_eps3.0_seed1] target_eps=3.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=3.6230 clip_norm=1.0000
+[exp5_eps3.0_seed2] target_eps=3.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=3.6230 clip_norm=1.0000
+[exp5_eps10.0_seed0] target_eps=10.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=1.4587 clip_norm=1.0000
+[exp5_eps10.0_seed1] target_eps=10.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=1.4587 clip_norm=1.0000
+[exp5_eps10.0_seed2] target_eps=10.0 target_delta=1e-05 sample_rate=0.2634 epochs=20 noise_multiplier=1.4587 clip_norm=1.0000
