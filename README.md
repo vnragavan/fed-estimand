@@ -1,5 +1,4 @@
-# fed-estimand-workshop
-
+# fed-estimand
 Federated learning experiments on FLamby's Fed-Heart-Disease dataset that ask
 what *estimand* the federation is computing — patient-weighted vs.
 site-weighted, pooled discrimination vs. per-site calibration, and how that
